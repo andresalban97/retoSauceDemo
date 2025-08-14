@@ -1,0 +1,17 @@
+
+# Playwright
+/node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+**/reports/
+**/target/*
+# Cucumber / general
+# *.feature.js
+# *.steps.js
+# *.json          # si hay archivos de datos generados
+# *.log
+
+# Playwright
+node_modules/
