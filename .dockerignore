@@ -1,0 +1,19 @@
+# Node modules (se instalarán dentro del contenedor)
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Archivos de build locales
+dist
+build
+
+# Configuraciones del editor
+.vscode
+.idea
+
+# Git
+.git
+.gitignore
+
+# Archivos de reportes y screenshots locales
+reports
